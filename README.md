@@ -1,3 +1,14 @@
+💫 Hi 👋, I’m Farhan
+A QA Manager | Test Automation Specialist | Quality Engineering Enthusiast
+📧 Email Me 👉 malikfarhan3200@gmail.com for collaboration, projects, or anything QA related 😊
+🔭 I’m currently working on: Leading QA strategy, automation frameworks, and quality processes across web, API, and mobile systems
+🌱 I’m currently learning: AI driven testing, test agents, and modern automation architectures
+👯 I’m looking to collaborate on: QA transformation projects, automation frameworks, and AI in testing workflows
+🤔 I’m looking for help with: Scaling test automation and improving CI CD quality gates in complex systems
+💬 Ask me about: QA leadership, test planning, automation strategy, Selenium with Python, API testing, blockchain testing
+📫 How to reach me: Add your preferred contact email or LinkedIn here
+😄 Pronouns: He/Him
+⚡ Fun fact: I like breaking software so users don’t have to 👍
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhaan_maliik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaansharif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@farhan.malik) 
