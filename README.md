@@ -1,17 +1,17 @@
 # 💫 Hi 👋, I’m Farhan
 
-** SQA Manager || QA Automation Engineer || AI in Testing Enthusiast **
+**SQA Manager || QA Automation Engineer || AI in Testing Enthusiast**
 
-Email me 👉 ✉️ malikfarhan3200@gmail.com for collaboration, projects, or tech discussions.
+Email me 👉 ✉️ malikfarhan3200@gmail.com for collaboration, projects, or tech discussions.😊😊
 
-🔭 I’m currently working on: AI driven QA systems, agentic testing workflows, and automation frameworks
-🌱 I’m currently learning: Advanced AI testing strategies, LLM based evaluation, and RAG system validation
-👯 I’m looking to collaborate on: AI in QA, test automation frameworks, and quality engineering tools
-🤔 I’m looking for help with: Scaling AI powered testing solutions and observability in QA pipelines
-💬 Ask me about: QA strategy, test automation, AI testing, Selenium, API testing, blockchain QA
-📫 How to reach me: malikfarhan3200@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I build tools that help QA teams test smarter, not harder
+- 🔭 I’m currently working on: AI driven QA systems, agentic testing workflows, and automation frameworks
+- 🌱 I’m currently learning: Advanced AI testing strategies, LLM based evaluation, and RAG system validation
+- 👯 I’m looking to collaborate on: AI in QA, test automation frameworks, and quality engineering tools
+- 🤔 I’m looking for help with: Scaling AI powered testing solutions and observability in QA pipelines
+- 💬 Ask me about: QA strategy, test automation, AI testing, Selenium, API testing, blockchain QA
+- 📫 How to reach me: malikfarhan3200@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I build tools that help QA teams test smarter, not harder
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhaan_maliik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhaansharif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@farhan.malik) 
